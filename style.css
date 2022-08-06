@@ -1,0 +1,25 @@
+body {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif; 
+    <!-- die Schriftenfamilie, als Alternativen, falls der Browser die erste Schrift nicht hat-->
+}
+p {
+    text-decoration: underline;
+}
+
+a {
+    font-weight:bold;
+    color:blueviolet;
+}
+
+img {
+    border-radius: 25px;
+}
+
+button {
+    border-style: dashed;
+    font-size: 24px;
+}
+hl {
+    opacity: 0.5;
+}
